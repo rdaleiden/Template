@@ -26,12 +26,14 @@ h4, h5 {
   text-align: center;
 }
 
-h6 {
+h6{
   font-size:15px;
   color: #cc0000;
   text-align: center;
 }
 
+
+}
 p {
   text-indent: 30px;
 }
