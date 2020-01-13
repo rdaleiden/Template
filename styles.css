@@ -8,6 +8,12 @@ h1 {
   font-size:60px;
 }
 
+ myHeader {
+   text-align:center;
+   font-size:60px;
+
+ }
+ 
 h2 {
   color: #7A0019;
   text-align: center;
